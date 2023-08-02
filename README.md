@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=ZulqAnsari&style=flat-square)
+
 # 👋 Hi, I’m Zulq, a upcoming Technical Consultant at Xander!
 
 ### I’m interested in Data Analytics, Cloud Computing and Artifical Intelligence.
