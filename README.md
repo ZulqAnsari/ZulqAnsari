@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=ZulqAnsari&style=flat-square)
+![](https://komarev.com/ghpvc/?username=ZulqAnsari&style=plastic)
 
 # 👋 Hi, I’m Zulq, a upcoming Technical Consultant at Xander!
 
